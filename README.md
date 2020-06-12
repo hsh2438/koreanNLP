@@ -10,3 +10,8 @@ https://ithub.korean.go.kr/user/corpus/referenceView.do
 https://korquad.github.io/ <br>
 http://www.aihub.or.kr/aidata/86
 
+- 문장유사도 <br>
+https://github.com/warnikchow/paraKQC 
+
+- 패러프레이즈 <br>
+https://github.com/warnikchow/paraKQC 
