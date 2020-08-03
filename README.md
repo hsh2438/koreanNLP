@@ -12,6 +12,9 @@ https://ithub.korean.go.kr/user/corpus/referenceView.do
 https://korquad.github.io/ <br>
 http://www.aihub.or.kr/aidata/86
 
+- NSMC(Naver Sentiment Movie Corpus) <br>
+https://github.com/e9t/nsmc
+
 - 문장유사도 <br>
 https://github.com/warnikchow/paraKQC 
 
